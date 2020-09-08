@@ -1,0 +1,38 @@
+a {
+    color: #FFF;
+    background-color:red;
+    border: none;    
+    line-height: 30px;
+    padding: 1px 5px;
+    margin: 5px;
+    text-transform: lowercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    /*background-image: url('./img/png/24x24/OK.png');*/
+ }
+ a:hover {
+       transform: scale(1.05);
+    }
+
+.btn{
+    color: #FFF;
+    background-color:green;
+    border: none;    
+    line-height: 30px;
+    padding: 1px 11px;
+    text-transform: lowercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+    list-style-type: circle;
+    /*ist-style: [disc | circle | square | decimal | lower-roman | upper-roman | lower-alpha | upper-alpha | none] || [inside | outside] || [<url> | none]*/
+
+}
